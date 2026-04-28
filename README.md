@@ -102,14 +102,18 @@ POST /api/chatbot/ask/
 ```
 ---
 ## 🚧 Future Improvements
+```
 🔥 ML-based matching (instead of rule-based)
 🗺️ Geo-based distance matching
 📱 Mobile app interface
 🧠 Advanced LLM + real RAG pipeline
 🔔 Notification system
+```
 ---
 👨‍💻 Authors
+```
 Padmavathi M (MERN stack Developer | DSA | AI Enthusiast)
 Loga Mithra R (Web Developer | Web Security | CTF Player)
 Roshini S (ML Engineer | Python Developer | GEN AI Alchemist)
 Chanthru V (AI/ML Student | Developer | Hackathon Enthusiast)
+```
