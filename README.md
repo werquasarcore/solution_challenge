@@ -39,7 +39,7 @@ An AI-powered system to **prioritize emergency reports** and **assign the best v
 ---
 
 ## 📂 Project Structure
-
+```
 
 solution_challenge/
 │
@@ -52,7 +52,7 @@ solution_challenge/
 ├── requirements.txt
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Setup Instructions
@@ -99,13 +99,15 @@ POST /api/chatbot/ask/
 {
   "answer": "Top priority: Water issue in Area A with score 72"
 }
-🚧 Future Improvements
+```
+---
+## 🚧 Future Improvements
 🔥 ML-based matching (instead of rule-based)
 🗺️ Geo-based distance matching
 📱 Mobile app interface
 🧠 Advanced LLM + real RAG pipeline
 🔔 Notification system
-
+---
 👨‍💻 Authors
 Padmavathi M (MERN stack Developer | DSA | AI Enthusiast)
 Loga Mithra R (Web Developer | Web Security | CTF Player)
