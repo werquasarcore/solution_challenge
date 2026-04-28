@@ -1,4 +1,4 @@
-# 🚀 Smart Disaster Response System
+# 🚀 SmartServe AI - Smart Disaster Response System
 
 An AI-powered system to **prioritize emergency reports** and **assign the best volunteers automatically** using intelligent matching and basic RAG-based chatbot support.
 
