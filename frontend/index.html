@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Volunteer System</title>
+    <link rel="stylesheet" href="/style.css">
+<script src="/script.js"></script>
+</head>
+
+<body>
+
+<header>
+    🚀 Smart Volunteer Coordination System
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h3>Add Report</h3>
+        <input id="title" placeholder="Title">
+        <input id="location" placeholder="Location">
+        <button onclick="addReport()">Submit</button>
+    </div>
+
+    <div class="card">
+        <h3>Add Volunteer</h3>
+        <input id="name" placeholder="Name">
+        <input id="skill" placeholder="Skill">
+        <button onclick="addVolunteer()">Submit</button>
+    </div>
+
+    <div class="card">
+        <h3>Chatbot</h3>
+        <input id="question" placeholder="Ask something...">
+        <button onclick="askBot()">Ask</button>
+        <p id="answer"></p>
+    </div>
+
+    <div class="card">
+        <h3>Reports</h3>
+        <button onclick="loadReports()">Load Reports</button>
+        <div id="reports"></div>
+    </div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
